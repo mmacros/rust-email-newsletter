@@ -1,0 +1,2 @@
+# rust-email-newsletter
+Init
